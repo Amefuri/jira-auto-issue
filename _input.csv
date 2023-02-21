@@ -1,0 +1,10 @@
+[TopUp] ปรับ ui ให้แสดงจำนวนวันเวลาของ vip เวลาซื้อ coin
+[VIPDetail] implement หน้า vip detail
+[UserProfile (Self+Other)] แสดง UI ที่เกี่ยวกับ vip/topgift/topfan
+[Live] Effect ทางเข้าของ vip
+[Live/Playback] แสดง vip/topgift/topfan badge ที่หน้าชื่อ chat
+[Live] แสดง vip/topgift/topfan badge ที่ mini profile 
+[Live] implement tab special gift 
+[Live:UserOnline/TopFan] แสดง vip/topgift/topfan badge ที่หน้าชื่อใน list + ทำ ui เป็นแบบใหม่
+[DiscoverLive] implement weekly topfan/topgift bar chart 
+[WeeklyTop] implement weekly topfan/topgift list
