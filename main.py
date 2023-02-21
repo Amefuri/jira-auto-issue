@@ -2,10 +2,10 @@ from atlassian import Jira
 import csv
 import sys
 
-jiraBaseUrl = "https://ookbee.atlassian.net"
+jiraBaseUrl = ""
 projectCode = 'JL' #'BEEB'  # input('Enter project code:')
-username = 'peerapat.a@ookbee.com'  # input('Enter username:')
-apiToken = 'ERNyXbjGFrkmVypFiALCF4A2'  # input('Enter JIRA api token:')
+username = ''  # input('Enter username:')
+apiToken = ''  # input('Enter JIRA api token:')
 csvFileName = 'input.csv'  # input('Enter csv file name(ex. "input.csv"):')
 iosLabel = 'iOS'
 androidLabel = 'Android'
